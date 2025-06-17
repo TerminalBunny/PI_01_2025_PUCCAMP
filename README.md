@@ -61,4 +61,4 @@ cursor = connect.cursor()
 - Não inserir, apagar ou modificar dados manualmente pelo MySQL, somente pelo programa em Python, caso contrário sera preciso apagar o banco de dados por completo e recria-lo.
 - Para verificar se os dados foram inseridos corretamente no banco, use somente comandos como `SELECT * FROM table` e nada além.
 - Não modificar nenhuma das funções ou qualquer outra parte do código que não sejam os dados necessários para conexão com o banco de dados.
-- Caso você possua um Bando de Dados com o nome "sustentabilidade", o mesmo sera apagado em prol da criação do novo a ser usado pelo Projeto
+- Caso você possua um Banco de Dados com o nome "sustentabilidade", o mesmo sera apagado em prol da criação de um novo a ser usado pelo Projeto.
